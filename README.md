@@ -51,10 +51,10 @@ Lowering the decision threshold from 0.50 to 0.30 raised recall from 0.51 to 0.8
 |        0.55 |       0.625 |    0.417 | 0.5   |
 |        0.6  |       0.659 |    0.302 | 0.414 |
 
-![Threshold tuning](images/threshold_tuning.png)
-![Confusion matrices](images/confusion_matrices.png)
-![Mortality by age](images/mortality_by_age.png)
-![Mortality by EF](images/mortality_by_ef.png)
+![Threshold tuning](Google-colab-graphs/threshold_tuning.png)
+![Confusion matrices](Google-colab-graphs/confusion_matrices.png)
+![Mortality by age](Google-colab-graphs/mortality_by_age.png)
+![Mortality by EF](Google-colab-graphs/mortality_by_ef.png)
 
 ## Dashboard
 ![Dashboard](images/dashboard.png)
