@@ -57,7 +57,7 @@ Lowering the decision threshold from 0.50 to 0.30 raised recall from 0.51 to 0.8
 ![Mortality by EF](Google-colab-graphs/mortality_by_ef.png)
 
 ## Dashboard
-![Dashboard](images/dashboard-img.png)
+![Dashboard](images/dashboard-img.jpg)
 *(Add your dashboard screenshot here as `images/dashboard.png`.)*
 
 ## Limitations
