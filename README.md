@@ -58,7 +58,6 @@ Lowering the decision threshold from 0.50 to 0.30 raised recall from 0.51 to 0.8
 
 ## Dashboard
 ![Dashboard](images/dashboard-img.jpg)
-*(Add your dashboard screenshot here as `images/dashboard.png`.)*
 
 ## Limitations
 - Small dataset (299 patients) from a single source, so results may not generalise.
